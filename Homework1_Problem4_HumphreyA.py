@@ -1,5 +1,10 @@
 #Allie Humphrey and William Ebright
 
+#import the material needed for the code
+import random
+import time
+
+
 #Homework 1: Problem 4
 
 #Maximum subarray: William Ebright
@@ -15,6 +20,9 @@
 #Look over the big O
 
 #will use ChatGPT as resource....
+
+for i in random.randint(-1000, 1000):
+  print(i)
 
 
 
